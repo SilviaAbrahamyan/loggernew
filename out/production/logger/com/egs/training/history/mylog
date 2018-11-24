@@ -1,0 +1,5 @@
+logger name: my_second_logger
+level: ERROR
+time: 1514355667012
+message: testing
+Thrown: null

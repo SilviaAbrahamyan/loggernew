@@ -1,0 +1,12 @@
+
+logger name: my_second_logger
+level: TRACE
+time: 1514628724572
+message: somethink
+Thrown: null
+
+logger name: my_third_logger
+level: WARNING
+time: Sat Dec 30 14:49:57 AMT 2017
+message: uploading image problem
+Thrown: sun.awt.image.ImageFormatException: must be PNG

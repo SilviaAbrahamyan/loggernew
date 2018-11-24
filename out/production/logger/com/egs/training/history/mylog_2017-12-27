@@ -1,0 +1,5 @@
+logger name: my_second_logger
+level: TRACE
+time: 1514372535943
+message: aaa
+Thrown: null
